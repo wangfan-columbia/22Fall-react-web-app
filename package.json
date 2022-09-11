@@ -1,0 +1,14 @@
+{
+  "name": "my-project-22fall",
+  "version": "1.0.0",
+  "description": "northeastern-align-web-development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fan Wang",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
